@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi, I'm Seun! 👋
+🌱 I am currently learning FrontEnd Development at AltSchool.
+🔭 I am learning to use React, MongoDB, and a lot of other tools.
+👯 I am always available to collaborate with designers or other devs on any interesting projects.
+📫 Should you need to reach me, my email is available on my profile.
 <!--
 **codebrokee/codebrokee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
