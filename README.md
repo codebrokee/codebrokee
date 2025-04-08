@@ -1,6 +1,5 @@
-### Hi, I'm Seun! 👋
-🌱 I am currently learning FrontEnd Development at AltSchool.
-🔭 I am learning to use React, MongoDB, and a lot of other tools.
+### Hi, I'm Oluwaseun! 👋
+🌱 I am a Frontend developer with 2 years of experience in web development. I use current web technologies such as React, TypeScript, Tailwind and so on, to build engaging web experiences for users.
 👯 I am always available to collaborate with designers or other devs on any interesting projects.
 📫 Should you need to reach me, my email is available on my profile.
 <!--
